@@ -1,0 +1,657 @@
+/// TFS Bombardier Dash-8 400 ///
+
+[fltsim.x]
+title=TFS Bombardier Dash 8-Q400 Alpaca Airways Corporate
+texture=TFS_Dash8-400 VCP Corporate
+atc_id=VC-P01
+ui_manufacturer=TFS
+ui_variation=Alpaca Airways
+ui_createdby=Model by The Fruit Stand, Repaint by jamlen
+
+[fltsim.x+1]
+title=TFS Bombardier Dash 8-Q400 Alpaca Airways AlpaCanada
+texture=TFS_Dash8-400 VCP AlpaCanada
+atc_id=VC-P02
+ui_manufacturer=TFS
+ui_variation=Alpaca Airways
+ui_createdby=Model by The Fruit Stand, Repaint by jamlen
+
+[fltsim.x+2]
+title=TFS Bombardier Dash 8-Q400 Alpaca Airways Dark
+texture=TFS_Dash8-400 VCP Dark
+atc_id=VC-P03
+ui_manufacturer=TFS
+ui_variation=Alpaca Airways
+ui_createdby=Model by The Fruit Stand, Repaint by Mowen
+
+[fltsim.x+3]
+title=TFS Bombardier Dash 8-Q400 Alpaca Airways Gradient
+texture=TFS_Dash8-400 VCP Gradient
+atc_id=VC-P04
+ui_manufacturer=TFS
+ui_variation=Alpaca Airways
+ui_createdby=Model by The Fruit Stand, Repaint by Mowen
+
+
+
+/// FAIB Boeing 737-700WL ///
+
+[fltsim.x]
+title=FAIB Boeing 737-700WL Alpaca Airways Corporate
+texture=FAIB_B737-700WL VCP Corporate
+atc_id=VC-P05
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by B0unc3
+
+
+
+/// AIG Boeing 757-200 RR ///
+
+[fltsim.x]
+title=AIG Boeing 757-200 RR Alpaca Airways Corporate
+texture=AIG_B757-200_RR VCP Corporate
+atc_id=VC-P06
+ui_manufacturer=AIG
+ui_variation=Alpaca Airways
+ui_createdby=Model by Alpha India Group, Repaint by jamlen
+prop_anim_ratio=1.59
+
+
+
+/// AIG Boeing 757-200F RR ///
+
+[fltsim.x]
+title=AIG Boeing 757-200F RR Alpaca Airways Corporate
+texture=AIG_B757-200F_RR VCP Corporate
+atc_id=VC-P07
+ui_manufacturer=AIG
+ui_variation=Alpaca Airways
+ui_createdby=Model by Alpha India Group, Repaint by jamlen
+prop_anim_ratio=1.59
+
+
+
+/// TFS Airbus A300-600 GE ///
+
+[fltsim.x]
+title=TFS Airbus A300-600 GE Alpaca Airways Retro
+texture=TFS_A300-600_GE VCP Retro
+atc_id=VC-P08
+ui_manufacturer=TFS
+ui_variation=Alpaca Airways
+ui_createdby=Model by The Fruit Stand, Repaint by B0unc3
+
+
+
+/// TFS Airbus A300-600F GE ///
+
+[fltsim.x]
+title=TFS Airbus A300-600F GE Alpaca Airways Corporate
+texture=TFS_A300-600F_GE VCP Corporate
+atc_id=VC-P09
+ui_manufacturer=TFS
+ui_variation=Alpaca Airways
+ui_createdby=Model by The Fruit Stand, Repaint by Mowen
+
+
+
+/// TFS Airbus A340-600 ///
+
+[fltsim.x]
+title=TFS Airbus A340-600 Alpaca Airways Corporate
+texture=TFS_A340-600 VCP Corporate
+atc_id=VC-P10
+ui_manufacturer=TFS
+ui_variation=Alpaca Airways
+ui_createdby=Model by The Fruit Stand, Repaint by jamlen
+
+
+
+/// TFS Boeing 777-200 GE ///
+
+[fltsim.x]
+title=TFS Boeing 777-200 GE Alpaca Airways Corporate
+texture=TFS_B777-200_GE VCP Corporate
+atc_id=VC-P11
+atc_airline=ALPACA
+ui_manufacturer=TFS
+ui_variation=Alpaca Airways
+ui_createdby=Model by The Fruit Stand, Repaint by Mowen
+
+
+
+/// TFS Boeing 777-300ER ///
+
+[fltsim.x]
+title=TFS Boeing 777-300ER Alpaca Airways Corporate
+texture=TFS_B777-300ER VCP Corporate
+atc_id=VC-P12
+ui_manufacturer=TFS
+ui_variation=Alpaca Airways
+ui_createdby=Model by The Fruit Stand, Repaint by Mowen
+
+
+
+/// FAIB Airbus A319-100 CFM ///
+
+[fltsim.x]
+title=FAIB Airbus A319-100 CFM Alpaca Airways Corporate
+texture=FAIB_A319-100_CFM VCP Corporate
+atc_id=VC-P13
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Airbus A319-100SL CFM ///
+
+[fltsim.x]
+title=FAIB Airbus A319-100SL CFM Alpaca Airways Corporate
+texture=FAIB_A319-100SL_CFM VCP Corporate
+atc_id=VC-P14
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Airbus A320-200 CFM ///
+
+[fltsim.x]
+title=FAIB Airbus A320-200 CFM Alpaca Airways Corporate
+texture=FAIB_A320-200_CFM VCP Corporate
+atc_id=VC-P15
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Airbus A320-200 IAE ///
+
+[fltsim.x]
+title=FAIB Airbus A320-200 IAE Alpaca Airways Corporate
+texture=FAIB_A320-200_IAE VCP Corporate
+atc_id=VC-P16
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Boeing 747-8I ///
+
+[fltsim.x]
+title=FAIB Boeing 747-8I Alpaca Airways Corporate
+texture=FAIB_B747-8I VCP Corporate
+atc_id=VC-P17
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Boeing 747-8F ///
+
+[fltsim.x]
+title=FAIB Boeing 747-8F Alpaca Airways Corporate
+texture=FAIB_B747-8F VCP Corporate
+atc_id=VC-P18
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Boeing 737-900WL ///
+
+[fltsim.x]
+title=FAIB Boeing 737-900WL Alpaca Airways Corporate
+texture=FAIB_B737-900WL Corporate
+atc_id=VC-P19
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Boeing 737-800WL ///
+
+[fltsim.x]
+title=FAIB Boeing 737-800WL Alpaca Airways Corporate
+texture=FAIB_B737-800WL VCP Corporate
+atc_id=VC-P20
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by B0unc3
+
+
+
+/// FAIB Airbus A321-200 CFM ///
+
+[fltsim.x]
+title=FAIB Airbus A321-200 CFM Alpaca Airways Corporate
+texture=FAIB_A321-200_CFM VCP Corporate
+atc_id=VC-P21
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by B0unc3
+
+
+
+/// FAIB Airbus A321-200 IAE ///
+
+[fltsim.x]
+title=FAIB Airbus A321-200 IAE Alpaca Airways Corporate
+texture=FAIB_A321-200_IAE VCP Corporate
+atc_id=VC-P22
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by B0unc3
+
+
+
+/// FAIB Airbus A320-200SL CFM ///
+
+[fltsim.x]
+title=FAIB Airbus A320-200SL CFM Alpaca Airways Corporate
+texture=FAIB_A320-200SL_CFM VCP Corporate
+atc_id=VC-P23
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Airbus A320-200SL IAE ///
+
+[fltsim.x]
+title=FAIB Airbus A320-200SL IAE Alpaca Airways Corporate
+texture=FAIB_A320-200SL_IAE VCP Corporate
+atc_id=VC-P24
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Boeing 737-800 ///
+
+[fltsim.x]
+title=FAIB Boeing 737-800 Alpaca Airways Corporate
+texture=FAIB_B737-800 VCP Corporate
+atc_id=VC-P25
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by B0unc3
+
+
+
+/// FAIB Boeing 737-800SSW ///
+
+[fltsim.x]
+title=FAIB Boeing 737-800SSW Alpaca Airways Corporate
+texture=FAIB_B737-800SSW VCP Corporate
+atc_id=VC-P26
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by B0unc3
+
+
+
+/// FAIB Boeing 737-900 ///
+
+[fltsim.x]
+title=FAIB Boeing 737-900 Alpaca Airways Corporate
+texture=FAIB_B737-900 VCP Corporate
+atc_id=VC-P27
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Boeing 737-900SSW ///
+
+[fltsim.x]
+title=FAIB Boeing 737-900SSW Alpaca Airways Corporate
+texture=FAIB_B737-900SSW VCP Corporate
+atc_id=VC-P28
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// TFS Airbus A310-300 GE ///
+
+[fltsim.x]
+title=TFS Airbus A310-300 GE Alpaca Airways Corporate
+texture=TFS_A310-300_GE VCP Corporate
+atc_id=VC-P29
+ui_manufacturer=TFS
+ui_variation=Alpaca Airways
+ui_createdby=Model by The Fruit Stand, Repaint by jamlen
+
+
+
+/// AIG Boeing 757-200 PW ///
+
+[fltsim.x]
+title=AIG Boeing 757-200 PW Alpaca Airways Corporate
+texture=AIG_B757-200_PW VCP Corporate
+atc_id=VC-P30
+ui_manufacturer=AIG
+ui_variation=Alpaca Airways
+ui_createdby=Model by Alpha India Group, Repaint by jamlen
+prop_anim_ratio=1.59
+
+
+
+/// AIA McDonnell Douglas MD-81 ///
+
+[fltsim.x]
+title=AIA_MD-81 Alpaca Airways Corporate
+texture=AIA_MD-81 VCP Corporate
+atc_id=VC-P31
+ui_manufacturer=AIA
+ui_variation=Alpaca Airways
+ui_createdby=Model by Al Aardvark, Repaint by jamlen
+
+
+
+/// AIA McDonnell Douglas MD-82 ///
+
+[fltsim.x]
+title=AIA_MD-82 Alpaca Airways Corporate
+texture=AIA_MD-82 VCP Corporate
+atc_id=VC-P32
+ui_manufacturer=AIA
+ui_variation=Alpaca Airways
+ui_createdby=Model by Al Aardvark, Repaint by jamlen
+
+
+
+/// AIA McDonnell Douglas MD-83 ///
+
+[fltsim.x]
+title=AIA_MD-83 Alpaca Airways Corporate
+texture=AIA_MD-83 VCP Corporate
+atc_id=VC-P33
+ui_manufacturer=AIA
+ui_variation=Alpaca Airways
+ui_createdby=Model by Al Aardvark, Repaint by jamlen
+
+
+
+/// AIA McDonnell Douglas MD-88 ///
+
+[fltsim.x]
+title=AIA_MD-88 Alpaca Airways Corporate
+texture=AIA_MD-88 VCP Corporate
+atc_id=VC-P34
+ui_manufacturer=AIA
+ui_variation=Alpaca Airways
+ui_createdby=Model by Al Aardvark, Repaint by jamlen
+
+
+
+/// AIA Embraer EMB-195 ///
+
+[fltsim.x]
+title=AIA_EMB-195 Alpaca Airways FD2S
+texture=AIA_EMB-195 VCP FD2S
+atc_id=VC-P35
+ui_manufacturer=AIA
+ui_variation=Alpaca Airways
+ui_createdby=Model by Al Aardvark, Repaint by ???
+
+
+
+/// FAIB Airbus A319-100 IAE ///
+
+[fltsim.x]
+title=FAIB_A319-100_IAE Alpaca Airways Corporate
+texture=FAIB_A319-100_IAE VCP Corporate
+atc_id=VC-P36
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Airbus A319-100SL IAE ///
+
+[fltsim.x]
+title=FAIB_A319-100SL_IAE Alpaca Airways Corporate
+texture=FAIB_A319-100SL_IAE VCP Corporate
+atc_id=VC-P37
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Airbus A319-100neo CFM ///
+
+[fltsim.x]
+title=FAIB_A319-100neo_CFM Alpaca Airways Corporate
+texture=FAIB_A319-100neo_CFM VCP Corporate
+atc_id=VC-P38
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// AIG Boeing 757-200WL PW ///
+
+[fltsim.x]
+title=AIG_B757-200WL_PW Alpaca Airways Corporate
+texture=AIG_B757-200WL_PW VCP Corporate
+atc_id=VC-P39
+ui_manufacturer=AIG
+ui_variation=Alpaca Airways
+ui_createdby=Model by Alpha India Group, Repaint by jamlen
+prop_anim_ratio=1.59
+
+
+
+/// UTT Boeing 787-9 GE ///
+
+[fltsim.x]
+title=UTT_B787-9_GE Alpaca Airways Corporate
+texture=UTT_B787-9_GE VCP Corporate
+atc_id=VC-P40
+ui_manufacturer=UTT
+ui_variation=Alpaca Airways
+ui_createdby=Model by United Traffic Team, Repaint by B0unc3
+
+
+
+/// UTT Boeing 787-9 RR ///
+
+[fltsim.x]
+title=UTT_B787-9_RR Alpaca Airways Corporate
+texture=UTT_B787-9_RR VCP Corporate
+atc_id=VC-P41
+ui_manufacturer=UTT
+ui_variation=Alpaca Airways
+ui_createdby=Model by United Traffic Team, Repaint by B0unc3
+
+
+
+
+/// FAIB Boeing 767-300 GE ///
+
+[fltsim.x]
+title=FAIB_B767-300_GE Alpaca Airways Corporate
+texture=FAIB_B767-300_GE VCP Corporate
+atc_id=VC-P42
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Boeing 767-300 PW ///
+
+[fltsim.x]
+title=FAIB_B767-300_PW Alpaca Airways Corporate
+texture=FAIB_B767-300_PW VCP Corporate
+atc_id=VC-P43
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Boeing 767-300ER GE ///
+
+[fltsim.x]
+title=FAIB_B767-300ER_GE Alpaca Airways Corporate
+texture=FAIB_B767-300ER_GE VCP Corporate
+atc_id=VC-P44
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Boeing 767-300ER PW ///
+
+[fltsim.x]
+title=FAIB_B767-300ER_PW Alpaca Airways Corporate
+texture=FAIB_B767-300ER_PW VCP Corporate
+atc_id=VC-P45
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Boeing 767-300ER WL GE ///
+
+[fltsim.x]
+title=FAIB_B767-300ER_WL_GE Alpaca Airways Corporate
+texture=FAIB_B767-300ER_WL_GE VCP Corporate
+atc_id=VC-P46
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Boeing 767-300ER WL PW ///
+
+[fltsim.x]
+title=FAIB_B767-300ER_WL_PW Alpaca Airways Corporate
+texture=FAIB_B767-300ER_WL_PW VCP Corporate
+atc_id=VC-P47
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Boeing 737-700 ///
+
+[fltsim.x]
+title=FAIB_B737-700 Alpaca Airways Corporate
+texture=FAIB_B737-700 VCP Corporate
+atc_id=VC-P48
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by B0unc3
+
+[fltsim.x+1]
+title=FAIB_B737-700 Alpaca Airways Retro
+texture=FAIB_B737-700 VCP Retro
+atc_id=VC-P49
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by B0unc3
+
+
+
+/// FAIB Boeing 737-700WL ///
+
+[fltsim.x]
+title=FAIB_B737-700WL Alpaca Airways Retro
+texture=FAIB_B737-700WL VCP Retro
+atc_id=VC-P50
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by B0unc3
+
+
+
+/// FAIB Boeing 737-700SSW ///
+
+[fltsim.x]
+title=FAIB_B737-700SSW Alpaca Airways Corporate
+texture=FAIB_B737-700SSW VCP Corporate
+atc_id=VC-P51
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by B0unc3
+
+[fltsim.x+1]
+title=FAIB_B737-700SSW Alpaca Airways Retro
+texture=FAIB_B737-700SSW VCP Retro
+atc_id=VC-P52
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by B0unc3
+
+
+
+/// FAIB Airbus A320-200neo CFM ///
+
+[fltsim.x]
+title=FAIB_A320-200neo_CFM Alpaca Airways Corporate
+texture=FAIB_A320-200neo_CFM VCP Corporate
+atc_id=VC-P53
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by jamlen
+
+
+
+/// FAIB Airbus A321-200SL CFM ///
+
+[fltsim.x]
+title=FAIB_A321-200SL_CFM Alpaca Airways Corporate
+texture=FAIB_A321-200SL_CFM VCP Corporate
+atc_id=VC-P54
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by B0unc3
+
+
+
+/// FAIB Airbus A321-200SL IAE ///
+
+[fltsim.x]
+title=FAIB_A321-200SL_IAE Alpaca Airways Corporate
+texture=FAIB_A321-200SL_IAE VCP Corporate
+atc_id=VC-P55
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by B0unc3
+
+
+
+/// FAIB Airbus A321-200neo CFM ///
+
+[fltsim.x]
+title=FAIB_A321-200neo_CFM Alpaca Airways Corporate
+texture=FAIB_A321-200neo_CFM VCP Corporate
+atc_id=VC-P56
+ui_manufacturer=FAIB
+ui_variation=Alpaca Airways
+ui_createdby=Model by FSX AI Bureau, Repaint by B0unc3
+
+
