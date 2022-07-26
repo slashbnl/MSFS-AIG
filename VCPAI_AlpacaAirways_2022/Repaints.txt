@@ -1,0 +1,449 @@
+[Alpaca Airways Bombardier Dash 8-Q400 - Corporate] (DH4-TFS)
+Temporary:	False
+Repaint-Title:	TFS Bombardier Dash 8-Q400 Alpaca Airways Corporate
+Modelfolder:	model=
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Bombardier Dash 8-Q400 - AlpaCanada] (DH4-TFS)
+Temporary:	False
+Repaint-Title:	TFS Bombardier Dash 8-Q400 Alpaca Airways AlpaCanada
+Modelfolder:	model=
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Bombardier Dash 8-Q400 - Dark] (DH4-TFS)
+Temporary:	False
+Repaint-Title:	TFS Bombardier Dash 8-Q400 Alpaca Airways Dark
+Modelfolder:	model=
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Bombardier Dash 8-Q400 - Gradient] (DH4-TFS)
+Temporary:	False
+Repaint-Title:	TFS Bombardier Dash 8-Q400 Alpaca Airways Gradient
+Modelfolder:	model=
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 737-700WL - Corporate] (73W-FAIB-winglets)
+Temporary:	False
+Repaint-Title:	FAIB Boeing 737-700WL Alpaca Airways Corporate
+Modelfolder:	model=winglets
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 757-200 - RR Corporate] (752-AIG-RR)
+Temporary:	False
+Repaint-Title:	AIG Boeing 757-200 RR Alpaca Airways Corporate
+Modelfolder:	model=RR
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 757-200F - RR Corporate] (752f-AIG-RR)
+Temporary:	False
+Repaint-Title:	AIG Boeing 757-200F RR Alpaca Airways Corporate
+Modelfolder:	model=RR
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A300-600 - GE Retro] (AB6-TFS-A306_GE)
+Temporary:	False
+Repaint-Title	TFS Airbus A300-600 GE Alpaca Airways Retro
+Modelfolder:	model=A306_GE
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A300-600F - GE Corporate] (ABY-TFS-A306_GE)
+Temporary:	False
+Repaint-Title	TFS Airbus A300-600F GE Alpaca Airways Corporate
+Modelfolder:	model=A306_GE
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A340-600 - Corporate] (346-TFS-Normal)
+Temporary:	False
+Repaint-Title:	TFS Airbus A340-600 Alpaca Airways Corporate
+Modelfolder:	model=Normal
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 777-200 - GE Corporate] (772-TFS-GE)
+Temporary:	False
+Repaint-Title:	TFS Boeing 777-200 GE Alpaca Airways Corporate
+Modelfolder:	model=GE
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 777-300ER - Corporate] (77W-TFS-no_satcomm)
+Temporary:	False
+Repaint-Title:	TFS Boeing 777-300ER Alpaca Airways Corporate
+Modelfolder:	model=no_satcomm
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A319-100 - CFM Corporate] (319-FAIB-CFM)
+Temporary:	False
+Repaint-Title:	FAIB Airbus A319-100 CFM Alpaca Airways Corporate
+Modelfolder:	model=CFM
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A319-100SL - CFM Corporate] (32D-FAIB-CFM_S)
+Temporary:	False
+Repaint-Title:	FAIB Airbus A319-100SL CFM Alpaca Airways Corporate
+Modelfolder:	model=CFM_S
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A320-200 - CFM Corporate] (320-FAIB-CFM)
+Temporary:	False
+Repaint-Title:	FAIB Airbus A320-200 CFM Alpaca Airways Corporate
+Modelfolder:	model=CFM
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A320-200 - IAE Corporate] (320-FAIB-IAE)
+Temporary:	False
+Repaint-Title:	FAIB Airbus A320-200 IAE Alpaca Airways Corporate
+Modelfolder:	model=IAE
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 747-8I - Corporate] (748-FAIB)
+Temporary:	False
+Repaint-Title:	FAIB Boeing 747-8I Alpaca Airways Corporate
+Modelfolder:	model=
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 747-8F - Corporate] (748f-FAIB-f)
+Temporary:	False
+Repaint-Title:	FAIB Boeing 747-8F Alpaca Airways Corporate
+Modelfolder:	model=f
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 737-900WL - Corporate] (73J-FAIB-winglets)
+Temporary:	False
+Repaint-Title:	FAIB Boeing 737-900WL Alpaca Airways Corporate
+Modelfolder:	model=winglets
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 737-800WL - Corporate] (73H-FAIB-winglets)
+Temporary:	False
+Repaint-Title:	FAIB Boeing 737-800WL Alpaca Airways Corporate
+Modelfolder:	model=winglets
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A321-200 - CFM Corporate] (321-2-FAIB-CFM)
+Temporary:	False
+Repaint-Title:	FAIB Airbus A321-200 CFM Alpaca Airways Corporate
+Modelfolder:	model=CFM
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A321-200 - IAE Corporate] (321-2-FAIB-IAE)
+Temporary:	False
+Repaint-Title:	FAIB Airbus A321-200 IAE Alpaca Airways Corporate
+Modelfolder:	model=IAE
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A320-200SL - CFM Corporate] (32A-FAIB-CFM_S)
+Temporary:	False
+Repaint-Title:	FAIB Airbus A320-200SL CFM Alpaca Airways Corporate
+Modelfolder:	model=CFM_S
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 737-800 - Corporate] (738-FAIB)
+Temporary:	False
+Repaint-Title:	FAIB Boeing 737-800 Alpaca Airways Corporate
+Modelfolder:	model=
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A320-200SL - IAE Corporate] (32A-FAIB-IAE_S)
+Temporary:	False
+Repaint-Title:	FAIB Airbus A320-200SL IAE Alpaca Airways Corporate
+Modelfolder:	model=IAE_S
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 737-800SSW - Corporate] (73H-FAIB-scimitars)
+Temporary:	False
+Repaint-Title:	FAIB Boeing 737-800SSW Alpaca Airways Corporate
+Modelfolder:	model=scimitars
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 737-900 - Corporate] (739-FAIB)
+Temporary:	False
+Repaint-Title:	FAIB Boeing 737-900 Alpaca Airways Corporate
+Modelfolder:	model=
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+
+[Alpaca Airways Boeing 737-900SSW - Corporate] (73J-FAIB-scimitars)
+Temporary:	False
+Repaint-Title:	FAIB Boeing 737-900SSW Alpaca Airways Corporate
+Modelfolder:	model=scimitars
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A310-300 - GE Corporate] (313-TFS-GE_300)
+Temporary:	False
+Repaint-Title:	TFS Airbus A310-300 GE Alpaca Airways Corporate
+Modelfolder:	model=GE
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 757-200 - PW Corporate] (752-AIG-PW)
+Temporary:	False
+Repaint-Title:	AIG Boeing 757-200 PW Alpaca Airways Corporate
+Modelfolder:	model=PW
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways McDonnell Douglas MD-81 - Corporate] (MD81-AIA-SD_no_refl)
+Temporary:	False
+Repaint-Title:	AIA_MD-81 Alpaca Airways Corporate
+Modelfolder:	model=SD_no_refl
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways McDonnell Douglas MD-82 - Corporate] (MD82-AIA-SD_no_refl)
+Temporary:	False
+Repaint-Title:	AIA_MD-82 Alpaca Airways Corporate
+Modelfolder:	model=SD_no_refl
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways McDonnell Douglas MD-83 - Corporate] (MD83-AIA-SD_no_refl)
+Temporary:	False
+Repaint-Title:	AIA_MD-83 Alpaca Airways Corporate
+Modelfolder:	model=SD_no_refl
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways McDonnell Douglas MD-88 - Corporate] (MD88-AIA-SD_no_refl)
+Temporary:	False
+Repaint-Title:	AIA_MD-88 Alpaca Airways Corporate
+Modelfolder:	model=SD_no_refl
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Embraer EMB-195 - FD2S] (E95-AIA)
+Temporary:	False
+Repaint-Title:	AIA_EMB-195 Alpaca Airways FD2S
+Modelfolder:	model=
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A319-100 - IAE Corporate] (319-FAIB-IAE)
+Temporary:	False
+Repaint-Title:	FAIB_A319-100_IAE Alpaca Airways Corporate
+Modelfolder:	model=IAE
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A319-100SL - IAE Corporate] (32D-FAIB-IAE_S)
+Temporary:	False
+Repaint-Title:	FAIB_A319-100SL_IAE Alpaca Airways Corporate
+Modelfolder:	model=IAE_S
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A319-100neo - CFM Corporate] (A19N-FAIB-CFML_S)
+Temporary:	False
+Repaint-Title:	FAIB_A319-100neo_CFM Alpaca Airways Corporate
+Modelfolder:	model=CFML_S
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 757-200WL - PW Corporate] (75W-AIG-PW_WL)
+Temporary:	False
+Repaint-Title:	AIG_B757-200WL_PW Alpaca Airways Corporate
+Modelfolder:	model=PW_WL
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 787-9 - GE Corporate] (789-UTT-GE)
+Temporary:	False
+Repaint-Title:	UTT_B787-9_GE Alpaca Airways Corporate
+Modelfolder:	model=GE
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 787-9 - RR Corporate] (789-UTT-RR)
+Temporary:	False
+Repaint-Title:	UTT_B787-9_RR Alpaca Airways Corporate
+Modelfolder:	model=RR
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 767-300 - GE Corporate] (763-FAIB-GEC)
+Temporary:	False
+Repaint-Title:	FAIB_B767-300_GE Alpaca Airways Corporate
+Modelfolder:	model=GE
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 767-300 - PW Corporate] (763-FAIB-PW)
+Temporary:	False
+Repaint-Title:	FAIB_B767-300_PW Alpaca Airways Corporate
+Modelfolder:	model=PW
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 767-300ER - GE Corporate] (763er-FAIB-GEC)
+Temporary:	False
+Repaint-Title:	FAIB_B767-300ER_GE Alpaca Airways Corporate
+Modelfolder:	model=GE
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 767-300ER - PW Corporate] (763er-FAIB-PW)
+Temporary:	False
+Repaint-Title:	FAIB_B767-300ER_PW Alpaca Airways Corporate
+Modelfolder:	model=PW
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 767-300ER - WL GE Corporate] (76Wer-FAIB-WGEC)
+Temporary:	False
+Repaint-Title:	FAIB_B767-300ER_WL_GE Alpaca Airways Corporate
+Modelfolder:	model=WGEC
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 767-300ER - WL PW Corporate] (76Wer-FAIB-WPW)
+Temporary:	False
+Repaint-Title:	FAIB_B767-300ER_WL_PW Alpaca Airways Corporate
+Modelfolder:	model=WPW
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 737-700 - Corporate] (73G-FAIB)
+Temporary:	False
+Repaint-Title:	FAIB_B737-700 Alpaca Airways Corporate
+Modelfolder:	model=
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 737-700 - Retro] (73G-FAIB)
+Temporary:	False
+Repaint-Title:	FAIB_B737-700 Alpaca Airways Retro
+Modelfolder:	model=
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 737-700WL - Retro] (73W-FAIB-winglets)
+Temporary:	False
+Repaint-Title:	FAIB_B737-700WL Alpaca Airways Retro
+Modelfolder:	model=winglets
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 737-700SSW - Corporate] (73W-FAIB-scimitars)
+Temporary:	False
+Repaint-Title:	FAIB_B737-700SSW Alpaca Airways Corporate
+Modelfolder:	model=scimitars
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Boeing 737-700SSW - Retro] (73W-FAIB-scimitars)
+Temporary:	False
+Repaint-Title:	FAIB_B737-700SSW Alpaca Airways Retro
+Modelfolder:	model=scimitars
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A320-200neo - CFM Corporate] (A20N-FAIB-CFML_S)
+Temporary:	False
+Repaint-Title:	FAIB_A320-200neo_CFM Alpaca Airways Corporate
+Modelfolder:	model=CFML_S
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A321-200SL - CFM Corporate] (32B-FAIB-CFMC_S)
+Temporary:	False
+Repaint-Title:	FAIB_A321-200SL_CFM Alpaca Airways Corporate
+Modelfolder:	model=CFMC_S
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A321-200SL - IAE Corporate] (32B-FAIB-IAE_S)
+Temporary:	False
+Repaint-Title:	FAIB_A321-200SL_IAE Alpaca Airways Corporate
+Modelfolder:	model=IAE_S
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
+[Alpaca Airways Airbus A321-200neo - CFM Corporate] (A21N-FAIB-CFML_S)
+Temporary:	False
+Repaint-Title:	FAIB_A321-200neo_CFM Alpaca Airways Corporate
+Modelfolder:	model=CFML_S
+Host:		OCH
+Filename:	VCPAI_Alpaca_Fleet_fsx.zip
+URL:		https://oneclickhangar.com/forum/index.php?action=dlattach;topic=9001.0;attach=10938
+
